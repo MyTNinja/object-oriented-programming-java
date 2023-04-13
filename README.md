@@ -1,2 +1,2 @@
-# sem-4
-Every java code i did in semester 4 of my college.
+# sem-4-oopj
+Every java code i did in the OOPJ - Object Oriented Programming through JAVA course in semester4 of my degree.
